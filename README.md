@@ -1,7 +1,7 @@
 # Naini's portfolio 
 Here are links to a few topics that I’ve authored for Okta and Oracle:
 
-## Okta:
+## Okta
 
 -   [Identity Governance](https://help.okta.com/oie/en-us/content/topics/identity-governance/iga.htm) (Redesigned landing page)
     
@@ -14,7 +14,7 @@ Here are links to a few topics that I’ve authored for Okta and Oracle:
 -   [Okta Identity Governance release notes (Archive)](https://help.okta.com/oie/en-us/content/topics/releasenotes/iga/iga-rn-archive.htm)
     
 
-## Oracle:
+## Oracle
 
 -   Converted the [Manage Bill Management](https://docs.oracle.com/en/cloud/saas/financials/25c/faofc/overview-of-bill-management.html#s20068336) user guide from the legacy writing style to the modern conversational writing style. It was used as standard for the Conversational Writing Style initiative.
     
