@@ -1,4 +1,4 @@
-# Naini's portfolio 
+# Writing samples
 Here are links to a few topics that I’ve authored for Okta and Oracle:
 
 ## Okta
